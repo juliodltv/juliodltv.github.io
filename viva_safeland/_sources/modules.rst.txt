@@ -1,0 +1,22 @@
+API Reference
+=============
+
+.. automodule:: src.env
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+.. automodule:: src.modules.simulator
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+.. automodule:: src.modules.render_drone
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+.. automodule:: src.modules.hmi
+   :members:
+   :undoc-members:
+   :show-inheritance:
